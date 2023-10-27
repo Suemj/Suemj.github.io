@@ -3,10 +3,10 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: /logo.svg
+heroImage: /logo.jpg
 bgImage: /bg.jpg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: No More Question
+tagline: To be the person you want to be
 heroFullScreen: true
 projects:
   - icon: project
